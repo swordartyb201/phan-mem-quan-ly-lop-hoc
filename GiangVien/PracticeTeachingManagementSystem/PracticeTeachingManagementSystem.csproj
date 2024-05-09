@@ -1,0 +1,596 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{841E328D-1B6B-4122-BEFB-E296C2185B50}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PracticeTeachingManagementSystem</RootNamespace>
+    <AssemblyName>PracticeTeachingManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>Current</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="DevExpress.Pdf.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v21.2.Export, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Tutorials.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Word, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppSetting.cs" />
+    <Compile Include="ClassTool.cs" />
+    <Compile Include="devMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="devMain.designer.cs">
+      <DependentUpon>devMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dsPTMS.cs">
+      <DependentUpon>dsPTMS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsPTMS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsPTMS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmAutoUpdateComputer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAutoUpdateComputer.designer.cs">
+      <DependentUpon>frmAutoUpdateComputer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCallRows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCallRows.designer.cs">
+      <DependentUpon>frmCallRows.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChatRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChatRoom.designer.cs">
+      <DependentUpon>frmChatRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClass.Designer.cs">
+      <DependentUpon>frmClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClient.designer.cs">
+      <DependentUpon>frmClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form of Hien\frmComputer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form of Hien\frmComputer.designer.cs">
+      <DependentUpon>frmComputer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfigApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfigApp.designer.cs">
+      <DependentUpon>frmConfigApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfigHaftYear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfigHaftYear.Designer.cs">
+      <DependentUpon>frmConfigHaftYear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConnectIp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConnectIp.Designer.cs">
+      <DependentUpon>frmConnectIp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDepartment.designer.cs">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form of Hien\frmDesignMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form of Hien\frmDesignMap.designer.cs">
+      <DependentUpon>frmDesignMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEquipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEquipment.designer.cs">
+      <DependentUpon>frmEquipment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmError.designer.cs">
+      <DependentUpon>frmError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form of Hien\frmErrorofComputer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form of Hien\frmErrorofComputer.designer.cs">
+      <DependentUpon>frmErrorofComputer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGroupStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGroupStudent.designer.cs">
+      <DependentUpon>frmGroupStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImportClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportClass.designer.cs">
+      <DependentUpon>frmImportClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImportStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportStudent.designer.cs">
+      <DependentUpon>frmImportStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmImportSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportSubject.designer.cs">
+      <DependentUpon>frmImportSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInfoStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInfoStudent.designer.cs">
+      <DependentUpon>frmInfoStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmJoinGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJoinGroup.designer.cs">
+      <DependentUpon>frmJoinGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMessagebox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMessagebox.designer.cs">
+      <DependentUpon>frmMessagebox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPermission.designer.cs">
+      <DependentUpon>frmPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form of Hien\frmPracticeRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form of Hien\frmPracticeRoom.designer.cs">
+      <DependentUpon>frmPracticeRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRemoting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRemoting.designer.cs">
+      <DependentUpon>frmRemoting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form of Hien\frmRepairComputer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form of Hien\frmRepairComputer.designer.cs">
+      <DependentUpon>frmRepairComputer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSend.designer.cs">
+      <DependentUpon>frmSend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSesionPractice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSesionPractice.designer.cs">
+      <DependentUpon>frmSesionPractice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudent.designer.cs">
+      <DependentUpon>frmStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentPractic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentPractic.designer.cs">
+      <DependentUpon>frmStudentPractic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubject.Designer.cs">
+      <DependentUpon>frmSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewConfiguration.designer.cs">
+      <DependentUpon>frmViewConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWatchConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWatchConfiguration.Designer.cs">
+      <DependentUpon>frmWatchConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWatchScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWatchScreen.designer.cs">
+      <DependentUpon>frmWatchScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\TcpChanelHelpers.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Form of Hien\AssemblyInfo.cs" />
+    <EmbeddedResource Include="devMain.resx">
+      <DependentUpon>devMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAutoUpdateComputer.resx">
+      <DependentUpon>frmAutoUpdateComputer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCallRows.resx">
+      <DependentUpon>frmCallRows.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChatRoom.resx">
+      <DependentUpon>frmChatRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClass.resx">
+      <DependentUpon>frmClass.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClient.resx">
+      <DependentUpon>frmClient.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form of Hien\frmComputer.resx">
+      <DependentUpon>frmComputer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfigApp.resx">
+      <DependentUpon>frmConfigApp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfigHaftYear.resx">
+      <DependentUpon>frmConfigHaftYear.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConnectIp.resx">
+      <DependentUpon>frmConnectIp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDepartment.resx">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form of Hien\frmDesignMap.resx">
+      <DependentUpon>frmDesignMap.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEquipment.resx">
+      <DependentUpon>frmEquipment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmError.resx">
+      <DependentUpon>frmError.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form of Hien\frmErrorofComputer.resx">
+      <DependentUpon>frmErrorofComputer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGroupStudent.resx">
+      <DependentUpon>frmGroupStudent.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportClass.resx">
+      <DependentUpon>frmImportClass.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportStudent.resx">
+      <DependentUpon>frmImportStudent.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportSubject.resx">
+      <DependentUpon>frmImportSubject.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInfoStudent.resx">
+      <DependentUpon>frmInfoStudent.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJoinGroup.resx">
+      <DependentUpon>frmJoinGroup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMessagebox.resx">
+      <DependentUpon>frmMessagebox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPermission.resx">
+      <DependentUpon>frmPermission.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form of Hien\frmPracticeRoom.resx">
+      <DependentUpon>frmPracticeRoom.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRemoting.resx">
+      <DependentUpon>frmRemoting.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form of Hien\frmRepairComputer.resx">
+      <DependentUpon>frmRepairComputer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSend.resx">
+      <DependentUpon>frmSend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSesionPractice.resx">
+      <DependentUpon>frmSesionPractice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudent.resx">
+      <DependentUpon>frmStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentPractic.resx">
+      <DependentUpon>frmStudentPractic.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSubject.resx">
+      <DependentUpon>frmSubject.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewConfiguration.resx">
+      <DependentUpon>frmViewConfiguration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWatchConfiguration.resx">
+      <DependentUpon>frmWatchConfiguration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWatchScreen.resx">
+      <DependentUpon>frmWatchScreen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCListComputer.resx">
+      <DependentUpon>UCListComputer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCScreenCapture.resx">
+      <DependentUpon>UCScreenCapture.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCTool.resx">
+      <DependentUpon>UCTool.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="PTMS.dbml.layout">
+      <DependentUpon>PTMS.dbml</DependentUpon>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PTMS.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PTMS.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="UCListComputer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCListComputer.designer.cs">
+      <DependentUpon>UCListComputer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCScreenCapture.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCScreenCapture.designer.cs">
+      <DependentUpon>UCScreenCapture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCTool.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCTool.designer.cs">
+      <DependentUpon>UCTool.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dsPTMS.xsc">
+      <DependentUpon>dsPTMS.xsd</DependentUpon>
+    </None>
+    <None Include="dsPTMS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsPTMS.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsPTMS.xss">
+      <DependentUpon>dsPTMS.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Internet-Disconnect.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Giao vien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ScreenCapture&amp;Control Class\ScreenCapture.csproj">
+      <Project>{AEB0BED2-C92B-470A-AC31-E79604B56245}</Project>
+      <Name>ScreenCapture</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgTool.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgTool %282%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PTMS.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>PTMS.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Resources\Button-Add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background_teacher.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lan.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

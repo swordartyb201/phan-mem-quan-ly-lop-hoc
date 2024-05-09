@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeTeachingManagementSystem_Student", "PracticeTeachingManagementSystem_Student\PracticeTeachingManagementSystem_Student.csproj", "{B1E00BF1-A3F2-4194-8A90-2403EF5FDEA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenCapture", "ScreenCapture&Control Class\ScreenCapture.csproj", "{AEB0BED2-C92B-470A-AC31-E79604B56245}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{4B8B0033-1EE7-4A80-B94F-234A498415C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1E00BF1-A3F2-4194-8A90-2403EF5FDEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E00BF1-A3F2-4194-8A90-2403EF5FDEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E00BF1-A3F2-4194-8A90-2403EF5FDEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E00BF1-A3F2-4194-8A90-2403EF5FDEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB0BED2-C92B-470A-AC31-E79604B56245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB0BED2-C92B-470A-AC31-E79604B56245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB0BED2-C92B-470A-AC31-E79604B56245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB0BED2-C92B-470A-AC31-E79604B56245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B8B0033-1EE7-4A80-B94F-234A498415C3}.Debug|Any CPU.ActiveCfg = Debug
+		{4B8B0033-1EE7-4A80-B94F-234A498415C3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

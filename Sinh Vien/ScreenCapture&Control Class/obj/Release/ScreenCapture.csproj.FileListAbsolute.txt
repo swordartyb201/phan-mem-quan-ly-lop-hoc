@@ -1,0 +1,4 @@
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\Sinh Vien\ScreenCapture&Control Class\bin\Release\ScreenCapture.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\Sinh Vien\ScreenCapture&Control Class\obj\Release\ScreenCapture.csproj.AssemblyReference.cache
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\Sinh Vien\ScreenCapture&Control Class\obj\Release\ScreenCapture.csproj.CoreCompileInputs.cache
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\Sinh Vien\ScreenCapture&Control Class\obj\Release\ScreenCapture.dll

@@ -1,0 +1,7 @@
+P203#17
+BFEBFBFF00020652#CPU#GenuineIntel#Intel(R) Core(TM) i5 CPU       M 430  @ 2.27GHz
+3145727#Ram#3145727#3GB
+Default System BIOS#Bios#Default System BIOS#Default System BIOS
+#HDD#(Standard disk drives)#USB 0GB
+hp DVD RW AD-7701H#CDRom#hp DVD RW AD-7701H#hp DVD RW AD-7701H
+HID\IRDEVICEV2&COL07\2&2818A073&0&0006#Keyboard##Enhanced (101- or 102-key)

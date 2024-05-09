@@ -1,0 +1,267 @@
+C:\Users\DOTHINH\Documents\Downloads\Compressed\lap trinh mang\Remote_Desktop\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\DOTHINH\Documents\Downloads\Compressed\lap trinh mang\Remote_Desktop\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\DOTHINH\Documents\Downloads\Compressed\lap trinh mang\Remote_Desktop\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DOTHINH\Documents\Downloads\Compressed\lap trinh mang\Remote_Desktop\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\DOTHINH\Documents\Downloads\Compressed\lap trinh mang\Remote_Desktop\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\DOTHINH\Documents\Visual Studio 2008\Projects\CongNgheNet_Client\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\DOTHINH\Documents\Visual Studio 2008\Projects\CongNgheNet_Client\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\DOTHINH\Documents\Visual Studio 2008\Projects\CongNgheNet_Client\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DOTHINH\Documents\Visual Studio 2008\Projects\CongNgheNet_Client\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\DOTHINH\Documents\Visual Studio 2008\Projects\CongNgheNet_Client\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Documents and Settings\ThinhTK6SE\Desktop\serverCOngnghenet\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Documents and Settings\ThinhTK6SE\Desktop\serverCOngnghenet\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Documents and Settings\ThinhTK6SE\Desktop\serverCOngnghenet\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ThinhTK6SE\Desktop\serverCOngnghenet\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Documents and Settings\ThinhTK6SE\Desktop\serverCOngnghenet\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Documents and Settings\ThinhTK6SE\Desktop\Quan ly phong may 18-12TNH\sinh vien_17_12_14h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Documents and Settings\ThinhTK6SE\Desktop\Quan ly phong may 18-12TNH\sinh vien_17_12_14h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Documents and Settings\ThinhTK6SE\Desktop\Quan ly phong may 18-12TNH\sinh vien_17_12_14h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ThinhTK6SE\Desktop\Quan ly phong may 18-12TNH\sinh vien_17_12_14h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Documents and Settings\ThinhTK6SE\Desktop\Quan ly phong may 18-12TNH\sinh vien_17_12_14h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\De Tai Phong may Moi_18_12_Nhan_Hau_Hien_1h\De Tai Phong may Moi_17_12_Nhan_Hau_Hien\sinh vien_17_12_14h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\De Tai Phong may Moi_18_12_Nhan_Hau_Hien_1h\De Tai Phong may Moi_17_12_Nhan_Hau_Hien\sinh vien_17_12_14h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\De Tai Phong may Moi_18_12_Nhan_Hau_Hien_1h\De Tai Phong may Moi_17_12_Nhan_Hau_Hien\sinh vien_17_12_14h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\De Tai Phong may Moi_18_12_Nhan_Hau_Hien_1h\De Tai Phong may Moi_17_12_Nhan_Hau_Hien\sinh vien_17_12_14h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\De Tai Phong may Moi_18_12_Nhan_Hau_Hien_1h\De Tai Phong may Moi_17_12_Nhan_Hau_Hien\sinh vien_17_12_14h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\De Tai Phong may Moi_18_12_Nhan_Hau_Hien_14h\De Tai Phong may Moi_17_12_Nhan_Hau_Hien\sinh vien_18_14h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\De Tai Phong may Moi_18_12_Nhan_Hau_Hien_14h\De Tai Phong may Moi_17_12_Nhan_Hau_Hien\sinh vien_18_14h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\De Tai Phong may Moi_18_12_Nhan_Hau_Hien_14h\De Tai Phong may Moi_17_12_Nhan_Hau_Hien\sinh vien_18_14h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\De Tai Phong may Moi_18_12_Nhan_Hau_Hien_14h\De Tai Phong may Moi_17_12_Nhan_Hau_Hien\sinh vien_18_14h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\De Tai Phong may Moi_18_12_Nhan_Hau_Hien_14h\De Tai Phong may Moi_17_12_Nhan_Hau_Hien\sinh vien_18_14h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\Nhanham\Desktop\G06 (DoThiNhan - NguyenXuanHau - DinhVanHien)\PhongMay 27_12_18h\sinhvien_27_12_16h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nhanham\Desktop\G06 (DoThiNhan - NguyenXuanHau - DinhVanHien)\PhongMay 27_12_18h\sinhvien_27_12_16h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\Nhanham\Desktop\G06 (DoThiNhan - NguyenXuanHau - DinhVanHien)\PhongMay 27_12_18h\sinhvien_27_12_16h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\Nhanham\Desktop\G06 (DoThiNhan - NguyenXuanHau - DinhVanHien)\PhongMay 27_12_18h\sinhvien_27_12_16h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\Nhanham\Desktop\G06 (DoThiNhan - NguyenXuanHau - DinhVanHien)\PhongMay 27_12_18h\sinhvien_27_12_16h\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+C:\Users\Nhanham\Desktop\G06 (DoThiNhan - NguyenXuanHau - DinhVanHien)\PhongMay 27_12_18h\sinhvien_27_12_16h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\DOTHINH\Desktop\GiangVien 27_12_18h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\DOTHINH\Desktop\GiangVien 27_12_18h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\DOTHINH\Desktop\GiangVien 27_12_18h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DOTHINH\Desktop\GiangVien 27_12_18h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\DOTHINH\Desktop\GiangVien 27_12_18h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\MATCUOI\Desktop\PTMS 4_3_2011\GiangVien 21_2_2011\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\MATCUOI\Desktop\PTMS 4_3_2011\GiangVien 21_2_2011\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\MATCUOI\Desktop\PTMS 4_3_2011\GiangVien 21_2_2011\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MATCUOI\Desktop\PTMS 4_3_2011\GiangVien 21_2_2011\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\MATCUOI\Desktop\PTMS 4_3_2011\GiangVien 21_2_2011\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+E:\PROJECT\QUAN LY PHONG MAY\GiangVien 24_3_2011\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+E:\PROJECT\QUAN LY PHONG MAY\GiangVien 24_3_2011\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+E:\PROJECT\QUAN LY PHONG MAY\GiangVien 24_3_2011\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJECT\QUAN LY PHONG MAY\GiangVien 24_3_2011\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+E:\PROJECT\QUAN LY PHONG MAY\GiangVien 24_3_2011\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+E:\PROJECT\QUAN LY PHONG MAY\GiangVien 29_3_2011\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+E:\PROJECT\QUAN LY PHONG MAY\GiangVien 29_3_2011\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+E:\PROJECT\QUAN LY PHONG MAY\GiangVien 29_3_2011\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJECT\QUAN LY PHONG MAY\GiangVien 29_3_2011\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+E:\PROJECT\QUAN LY PHONG MAY\GiangVien 29_3_2011\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\MATCUOI\Desktop\PTMS 24-3\sinhvien_1_4_2011\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\MATCUOI\Desktop\PTMS 24-3\sinhvien_1_4_2011\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\MATCUOI\Desktop\PTMS 24-3\sinhvien_1_4_2011\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MATCUOI\Desktop\PTMS 24-3\sinhvien_1_4_2011\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\MATCUOI\Desktop\PTMS 24-3\sinhvien_1_4_2011\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\MATCUOI\Desktop\PTMS 24-3\sinhvien 7_4_2011\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\MATCUOI\Desktop\PTMS 24-3\sinhvien 7_4_2011\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\MATCUOI\Desktop\PTMS 24-3\sinhvien 7_4_2011\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MATCUOI\Desktop\PTMS 24-3\sinhvien 7_4_2011\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\MATCUOI\Desktop\PTMS 24-3\sinhvien 7_4_2011\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Documents and Settings\ThinhTK6SE\Desktop\sinhvien 7_4_2011\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Documents and Settings\ThinhTK6SE\Desktop\sinhvien 7_4_2011\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Documents and Settings\ThinhTK6SE\Desktop\sinhvien 7_4_2011\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ThinhTK6SE\Desktop\sinhvien 7_4_2011\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Documents and Settings\ThinhTK6SE\Desktop\sinhvien 7_4_2011\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\MATCUOI\Desktop\PTMS 24-3\SinhVien14_4\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\MATCUOI\Desktop\PTMS 24-3\SinhVien14_4\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\MATCUOI\Desktop\PTMS 24-3\SinhVien14_4\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MATCUOI\Desktop\PTMS 24-3\SinhVien14_4\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\MATCUOI\Desktop\PTMS 24-3\SinhVien14_4\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+H:\SinhVien14_4_15h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+H:\SinhVien14_4_15h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+H:\SinhVien14_4_15h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+H:\SinhVien14_4_15h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+H:\SinhVien14_4_15h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+D:\Project 3\QuanLyPhongMay(14-4)\SinhVien14_4_15h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+D:\Project 3\QuanLyPhongMay(14-4)\SinhVien14_4_15h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+D:\Project 3\QuanLyPhongMay(14-4)\SinhVien14_4_15h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+D:\Project 3\QuanLyPhongMay(14-4)\SinhVien14_4_15h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+D:\Project 3\QuanLyPhongMay(14-4)\SinhVien14_4_15h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+D:\Project 3\QuanLyPhongMay(14-4)\SinhVien25-4-20h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+D:\Project 3\QuanLyPhongMay(14-4)\SinhVien25-4-20h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+D:\Project 3\QuanLyPhongMay(14-4)\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+D:\Project 3\QuanLyPhongMay(14-4)\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+D:\Project 3\QuanLyPhongMay(14-4)\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\MATCUOI\Desktop\PTMS 14_4\SinhVien26-4-8h\SinhVien25-4-20h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\MATCUOI\Desktop\PTMS 14_4\SinhVien26-4-8h\SinhVien25-4-20h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\MATCUOI\Desktop\PTMS 14_4\SinhVien26-4-8h\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MATCUOI\Desktop\PTMS 14_4\SinhVien26-4-8h\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\MATCUOI\Desktop\PTMS 14_4\SinhVien26-4-8h\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+H:\SinhVien26-4-8h_NHAN\SinhVien25-4-20h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+H:\SinhVien26-4-8h_NHAN\SinhVien25-4-20h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+H:\SinhVien26-4-8h_NHAN\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+H:\SinhVien26-4-8h_NHAN\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+H:\SinhVien26-4-8h_NHAN\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\SinhVien26-4-8h_NHAN\SinhVien25-4-20h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\SinhVien26-4-8h_NHAN\SinhVien25-4-20h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\SinhVien26-4-8h_NHAN\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\SinhVien26-4-8h_NHAN\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\SinhVien26-4-8h_NHAN\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\SinhVien26-4-16h_NHAN_Hau\SinhVien25-4-20h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\SinhVien26-4-16h_NHAN_Hau\SinhVien25-4-20h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\SinhVien26-4-16h_NHAN_Hau\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\SinhVien26-4-16h_NHAN_Hau\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\SinhVien26-4-16h_NHAN_Hau\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\MATCUOI\Desktop\PTMS 14_4\SinhVien26-4-16h_NHAN_Hau\SinhVien26-4-16h_NHAN_Hau\SinhVien25-4-20h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\MATCUOI\Desktop\PTMS 14_4\SinhVien26-4-16h_NHAN_Hau\SinhVien26-4-16h_NHAN_Hau\SinhVien25-4-20h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\MATCUOI\Desktop\PTMS 14_4\SinhVien26-4-16h_NHAN_Hau\SinhVien26-4-16h_NHAN_Hau\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MATCUOI\Desktop\PTMS 14_4\SinhVien26-4-16h_NHAN_Hau\SinhVien26-4-16h_NHAN_Hau\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\MATCUOI\Desktop\PTMS 14_4\SinhVien26-4-16h_NHAN_Hau\SinhVien26-4-16h_NHAN_Hau\SinhVien25-4-20h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\SinhVien 27 - 4\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\SinhVien 27 - 4\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\SinhVien 27 - 4\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\SinhVien 27 - 4\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\SinhVien 27 - 4\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\SinhVien 28 - 4\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\SinhVien 28 - 4\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\SinhVien 28 - 4\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\SinhVien 28 - 4\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\SinhVien 28 - 4\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Music\SinhVien 28 - 4\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Music\SinhVien 28 - 4\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Music\SinhVien 28 - 4\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Music\SinhVien 28 - 4\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Music\SinhVien 28 - 4\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+I:\SinhVien 28 - 4\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+I:\SinhVien 28 - 4\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+I:\SinhVien 28 - 4\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+I:\SinhVien 28 - 4\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+I:\SinhVien 28 - 4\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\SinhVien 5 - 5\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\SinhVien 5 - 5\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\SinhVien 5 - 5\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\SinhVien 5 - 5\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\SinhVien 5 - 5\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+E:\Project 4\PTMS 6-5-THINHMC\SinhVien 5 - 5_Nhan\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+E:\Project 4\PTMS 6-5-THINHMC\SinhVien 5 - 5_Nhan\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+E:\Project 4\PTMS 6-5-THINHMC\SinhVien 5 - 5_Nhan\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+E:\Project 4\PTMS 6-5-THINHMC\SinhVien 5 - 5_Nhan\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 4\PTMS 6-5-THINHMC\SinhVien 5 - 5_Nhan\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+E:\Project 4\PTMS 6-5-THINHMC\SinhVien 5 - 5_Nhan\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+E:\Project 4\PTMS 6-5-THINHMC\Sinh vien 10-5-2h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+E:\Project 4\PTMS 6-5-THINHMC\Sinh vien 10-5-2h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+E:\Project 4\PTMS 6-5-THINHMC\Sinh vien 10-5-2h\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+E:\Project 4\PTMS 6-5-THINHMC\Sinh vien 10-5-2h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 4\PTMS 6-5-THINHMC\Sinh vien 10-5-2h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+E:\Project 4\PTMS 6-5-THINHMC\Sinh vien 10-5-2h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\Sinh vien 11-5-23h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\Sinh vien 11-5-23h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\Sinh vien 11-5-23h\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+C:\Users\XuanHau\Desktop\Sinh vien 11-5-23h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\Sinh vien 11-5-23h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\Sinh vien 11-5-23h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 12-5-2h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 12-5-2h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 12-5-2h\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 12-5-2h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 12-5-2h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 12-5-2h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\PTMS 12-5-17h\Sinh vien 12-5-17h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\PTMS 12-5-17h\Sinh vien 12-5-17h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\PTMS 12-5-17h\Sinh vien 12-5-17h\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+C:\Users\XuanHau\Desktop\PTMS 12-5-17h\Sinh vien 12-5-17h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\PTMS 12-5-17h\Sinh vien 12-5-17h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\PTMS 12-5-17h\Sinh vien 12-5-17h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\PTMS 12-5-17h\Sinh vien 13-5-8h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\PTMS 12-5-17h\Sinh vien 13-5-8h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\PTMS 12-5-17h\Sinh vien 13-5-8h\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+C:\Users\XuanHau\Desktop\PTMS 12-5-17h\Sinh vien 13-5-8h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\PTMS 12-5-17h\Sinh vien 13-5-8h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\PTMS 12-5-17h\Sinh vien 13-5-8h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 13-5-8h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 13-5-8h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 13-5-8h\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 13-5-8h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 13-5-8h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 13-5-8h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 13-5-15h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 13-5-15h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 13-5-15h\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 13-5-15h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 13-5-15h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Documents and Settings\MATCUOI\Desktop\Sinh vien 13-5-15h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\Sinh vien 13-5-15h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\Sinh vien 13-5-15h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\Sinh vien 13-5-15h\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+C:\Users\XuanHau\Desktop\Sinh vien 13-5-15h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\Sinh vien 13-5-15h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\Sinh vien 13-5-15h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\PTMS 13-5-17h\Sinh vien 13-5-17h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\PTMS 13-5-17h\Sinh vien 13-5-17h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\PTMS 13-5-17h\Sinh vien 13-5-17h\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+C:\Users\XuanHau\Desktop\PTMS 13-5-17h\Sinh vien 13-5-17h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\PTMS 13-5-17h\Sinh vien 13-5-17h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\PTMS 13-5-17h\Sinh vien 13-5-17h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\17-05-2011-17h\Sinh vien 13-5-17h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\17-05-2011-17h\Sinh vien 13-5-17h\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\17-05-2011-17h\Sinh vien 13-5-17h\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+C:\Users\XuanHau\Desktop\17-05-2011-17h\Sinh vien 13-5-17h\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\17-05-2011-17h\Sinh vien 13-5-17h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\17-05-2011-17h\Sinh vien 13-5-17h\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+F:\Tai lieu cac hoc ki\DE TAI NCKH\18-5\Sinh vien 18-5-21h nhan hau\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+F:\Tai lieu cac hoc ki\DE TAI NCKH\18-5\Sinh vien 18-5-21h nhan hau\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+F:\Tai lieu cac hoc ki\DE TAI NCKH\18-5\Sinh vien 18-5-21h nhan hau\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+F:\Tai lieu cac hoc ki\DE TAI NCKH\18-5\Sinh vien 18-5-21h nhan hau\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+F:\Tai lieu cac hoc ki\DE TAI NCKH\18-5\Sinh vien 18-5-21h nhan hau\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\Sinh vien 18-5-21h nhan hau\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\Sinh vien 18-5-21h nhan hau\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\Sinh vien 18-5-21h nhan hau\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+C:\Users\XuanHau\Desktop\Sinh vien 18-5-21h nhan hau\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\Sinh vien 18-5-21h nhan hau\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\Sinh vien 18-5-21h nhan hau\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\Sinh vien 8-6-21h nhan hau\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\Sinh vien 8-6-21h nhan hau\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\Sinh vien 8-6-21h nhan hau\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+C:\Users\XuanHau\Desktop\Sinh vien 8-6-21h nhan hau\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\Sinh vien 8-6-21h nhan hau\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\Sinh vien 8-6-21h nhan hau\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\Sinh vien 9-6-0h nhan hau\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\Sinh vien 9-6-0h nhan hau\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\XuanHau\Desktop\Sinh vien 9-6-0h nhan hau\ScreenCapture&Control Class\bin\Debug\msmdvbanet.dll
+C:\Users\XuanHau\Desktop\Sinh vien 9-6-0h nhan hau\ScreenCapture&Control Class\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XuanHau\Desktop\Sinh vien 9-6-0h nhan hau\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\XuanHau\Desktop\Sinh vien 9-6-0h nhan hau\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\HLX\Downloads\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\HLX\Downloads\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\HLX\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\HLX\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\HLX\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\HLX\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\HLX\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.AssemblyReference.cache
+C:\Users\HLX\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.CoreCompileInputs.cache
+C:\Users\HLX\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.CopyComplete
+C:\Users\Admin\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\Admin\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\Admin\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.CopyComplete
+C:\Users\Admin\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\Admin\OneDrive - actvn.edu.vn\Máy tính\Sinh Vien\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\KhoaLuan\Sinh Vien\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\KhoaLuan\Sinh Vien\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\KhoaLuan\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.AssemblyReference.cache
+C:\KhoaLuan\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.CoreCompileInputs.cache
+C:\KhoaLuan\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.CopyComplete
+C:\KhoaLuan\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\KhoaLuan\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\Sinh Vien\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\Sinh Vien\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.AssemblyReference.cache
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.CoreCompileInputs.cache
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.CopyComplete
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb
+D:\Code\C#\Quan_li_lop_hoc\Code\Sinh Vien\ScreenCapture&Control Class\bin\Debug\ScreenCapture.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\Sinh Vien\ScreenCapture&Control Class\bin\Debug\ScreenCapture.pdb
+D:\Code\C#\Quan_li_lop_hoc\Code\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.AssemblyReference.cache
+D:\Code\C#\Quan_li_lop_hoc\Code\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.CoreCompileInputs.cache
+D:\Code\C#\Quan_li_lop_hoc\Code\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.csproj.CopyComplete
+D:\Code\C#\Quan_li_lop_hoc\Code\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\Sinh Vien\ScreenCapture&Control Class\obj\Debug\ScreenCapture.pdb

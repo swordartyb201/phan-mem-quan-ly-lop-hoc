@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="PTMS" Class="PTMSDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Server=DESKTOP-M63MHF7;Database=PTMS;uid=sa;password=123456;Trusted_Connection=True;Integrated Security= false" SettingsObjectName="PracticeTeachingManagementSystem.Properties.Settings" SettingsPropertyName="PTMSConnectionString4" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.AccountPermissions" Member="AccountPermissions">
+    <Type Name="AccountPermission">
+      <Column Name="AccountPermissionID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AccountID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MenuID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PermissionID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="AccountPermission_Log" Member="Logs" OtherKey="AccountPermissionID" Type="Log" />
+      <Association Name="Account_AccountPermission" Member="Account" ThisKey="AccountID" Type="Account" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Menus_AccountPermission" Member="Menus" ThisKey="MenuID" Type="Menus" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Permission_AccountPermission" Member="Permission" ThisKey="PermissionID" Type="Permission" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Trains" Member="Trains">
+    <Type Name="Train">
+      <Column Name="TrainID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TrainCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TrainName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="Train_Class" Member="Classes" OtherKey="TrainID" Type="Class" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Accounts" Member="Accounts">
+    <Type Name="Account">
+      <Column Name="AccountID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PassWord" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TeacherID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GroupID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IP" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Association Name="Account_AccountPermission" Member="AccountPermissions" OtherKey="AccountID" Type="AccountPermission" />
+      <Association Name="Account_ItemMain" Member="ItemMains" OtherKey="AccountID" Type="ItemMain" />
+      <Association Name="Group_Account" Member="Group" ThisKey="GroupID" Type="Group" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Teacher_Account" Member="Teacher" ThisKey="TeacherID" Type="Teacher" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Branches" Member="Branches">
+    <Type Name="Branch">
+      <Column Name="BranchID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BranchCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="BranchName" Type="System.String" DbType="NVarChar(150) NOT NULL" CanBeNull="false" />
+      <Association Name="Branch_Class" Member="Classes" OtherKey="BranchID" Type="Class" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CallRools" Member="CallRools">
+    <Type Name="CallRool">
+      <Column Name="CallRoolID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StudentPracticeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="GroupSessionID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IsAvailable" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="GroupSession_CallRool" Member="GroupSession" ThisKey="GroupSessionID" Type="GroupSession" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="StudentPractice_CallRool" Member="StudentPractice" ThisKey="StudentPracticeID" Type="StudentPractice" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Chairs" Member="Chairs">
+    <Type Name="Chair">
+      <Column Name="ChairID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ChairCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ChairName" Type="System.String" DbType="NVarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="DepartmentID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Chair_Subject" Member="Subjects" OtherKey="ChairID" Type="Subject" />
+      <Association Name="Chair_Teacher" Member="Teachers" OtherKey="ChairID" Type="Teacher" />
+      <Association Name="Department_Chair" Member="Department" ThisKey="DepartmentID" Type="Department" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Classes" Member="Classes">
+    <Type Name="Class">
+      <Column Name="ClassID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ClassCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ClassName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DepartmentID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TrainID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="StartYear" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="StartHaftYear" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EndYear" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="LocationID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Class_GroupStudent" Member="GroupStudents" OtherKey="ClassID" Type="GroupStudent" />
+      <Association Name="Class_Student" Member="Students" OtherKey="ClassID" Type="Student" />
+      <Association Name="Branch_Class" Member="Branch" ThisKey="BranchID" Type="Branch" IsForeignKey="true" />
+      <Association Name="Train_Class" Member="Train" ThisKey="TrainID" Type="Train" IsForeignKey="true" />
+      <Association Name="Department_Class" Member="Department" ThisKey="DepartmentID" Type="Department" IsForeignKey="true" />
+      <Association Name="Location_Class" Member="Location" ThisKey="LocationID" Type="Location" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ComputerEquipments" Member="ComputerEquipments">
+    <Type Name="ComputerEquipment">
+      <Column Name="ComputerEquipmentID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ComputerID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="EquipmentID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Total" Type="System.String" DbType="VarChar(5)" CanBeNull="true" />
+      <Column Name="IsError" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="Time" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Note" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="ComputerEquipment_ReplaceEquipment" Member="ReplaceEquipments" OtherKey="ComputerEquipmentID" Type="ReplaceEquipment" />
+      <Association Name="Computer_ComputerEquipment" Member="Computer" ThisKey="ComputerID" Type="Computer" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Equipment_ComputerEquipment" Member="Equipment" ThisKey="EquipmentID" Type="Equipment" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Computers" Member="Computers">
+    <Type Name="Computer">
+      <Column Name="ComputerID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="RoomID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ComputerCode" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="ComputerName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ComputerNumber" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ComputerIP" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="VarChar(5)" CanBeNull="true" />
+      <Association Name="Computer_ComputerEquipment" Member="ComputerEquipments" OtherKey="ComputerID" Type="ComputerEquipment" />
+      <Association Name="Computer_ErrorofComputer" Member="ErrorofComputers" OtherKey="ComputerID" Type="ErrorofComputer" />
+      <Association Name="Computer_GroupMap" Member="GroupMaps" OtherKey="ComputerID" Type="GroupMap" />
+      <Association Name="Computer_RepairError" Member="RepairErrors" OtherKey="ComputerID" Type="RepairError" />
+      <Association Name="Computer_SessionSpace" Member="SessionSpaces" OtherKey="ComputerID" Type="SessionSpace" />
+      <Association Name="PracticeRoom_Computer" Member="PracticeRoom" ThisKey="RoomID" Type="PracticeRoom" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ConfigHaflYears" Member="ConfigHaflYears">
+    <Type Name="ConfigHaflYear">
+      <Column Name="ConfigHaflYearID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Year" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="StartDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Departments" Member="Departments">
+    <Type Name="Department">
+      <Column Name="DepartmentID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DepartmentCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="DepartmentName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="PhoneNumber" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Association Name="Department_Chair" Member="Chairs" OtherKey="DepartmentID" Type="Chair" />
+      <Association Name="Department_Class" Member="Classes" OtherKey="DepartmentID" Type="Class" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Equipments" Member="Equipments">
+    <Type Name="Equipment">
+      <Column Name="EquipmentID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EquipmentCode" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="EquipmentName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Firm" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Configuration" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Equipment_ComputerEquipment" Member="ComputerEquipments" OtherKey="EquipmentID" Type="ComputerEquipment" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ErrorofComputers" Member="ErrorofComputers">
+    <Type Name="ErrorofComputer">
+      <Column Name="ErrorofComputerID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ComputerID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ErrorID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Status" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Computer_ErrorofComputer" Member="Computer" ThisKey="ComputerID" Type="Computer" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="Error_ErrorofComputer" Member="Error" ThisKey="ErrorID" Type="Error" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Errors" Member="Errors">
+    <Type Name="Error">
+      <Column Name="ErrorID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ErrorName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Error_ErrorofComputer" Member="ErrorofComputers" OtherKey="ErrorID" Type="ErrorofComputer" />
+    </Type>
+  </Table>
+  <Table Name="dbo.GroupMaps" Member="GroupMaps">
+    <Type Name="GroupMap">
+      <Column Name="GroupMapID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StudentPracticeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ComputerID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Computer_GroupMap" Member="Computer" ThisKey="ComputerID" Type="Computer" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="StudentPractice_GroupMap" Member="StudentPractice" ThisKey="StudentPracticeID" Type="StudentPractice" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Groups" Member="Groups">
+    <Type Name="Group">
+      <Column Name="GroupID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="GroupName" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Association Name="Group_Account" Member="Accounts" OtherKey="GroupID" Type="Account" />
+      <Association Name="Group_MenuGroup" Member="MenuGroups" OtherKey="GroupID" Type="MenuGroup" />
+    </Type>
+  </Table>
+  <Table Name="dbo.GroupSessions" Member="GroupSessions">
+    <Type Name="GroupSession">
+      <Column Name="GroupSessionID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="RoomID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="GroupStudentID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Week" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DayOfWeek" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="StartSession" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TotalSession" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="GroupSession_CallRool" Member="CallRools" OtherKey="GroupSessionID" Type="CallRool" />
+      <Association Name="GroupStudent_GroupSession" Member="GroupStudent" ThisKey="GroupStudentID" Type="GroupStudent" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="PracticeRoom_GroupSession" Member="PracticeRoom" ThisKey="RoomID" Type="PracticeRoom" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.GroupStudent" Member="GroupStudents">
+    <Type Name="GroupStudent">
+      <Column Name="GroupStudentID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="GroupName" Type="System.String" DbType="VarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="ClassID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TeacherID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="HaflYear" Type="System.String" DbType="VarChar(5)" CanBeNull="true" />
+      <Column Name="Year" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="GroupStudent_GroupSession" Member="GroupSessions" OtherKey="GroupStudentID" Type="GroupSession" />
+      <Association Name="GroupStudent_StudentPractice" Member="StudentPractices" OtherKey="GroupStudentID" Type="StudentPractice" />
+      <Association Name="Class_GroupStudent" Member="Class" ThisKey="ClassID" Type="Class" IsForeignKey="true" />
+      <Association Name="Subject_GroupStudent" Member="Subject" ThisKey="SubjectID" Type="Subject" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Teacher_GroupStudent" Member="Teacher" ThisKey="TeacherID" Type="Teacher" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HistoryRooms" Member="HistoryRooms">
+    <Type Name="HistoryRoom">
+      <Column Name="HistoryTeachID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Date" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Session" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="TeacherID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="RoomID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SubjectID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GroupName" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="StateRoom" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="ChangeSpace" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Note" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Association Name="PracticeRoom_HistoryRoom" Member="PracticeRoom" ThisKey="RoomID" Type="PracticeRoom" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="Subject_HistoryRoom" Member="Subject" ThisKey="SubjectID" Type="Subject" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="Teacher_HistoryRoom" Member="Teacher" ThisKey="TeacherID" Type="Teacher" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ItemMains" Member="ItemMains">
+    <Type Name="ItemMain">
+      <Column Name="ItemID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ItemName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="AccountID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Account_ItemMain" Member="Account" ThisKey="AccountID" Type="Account" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Locations" Member="Locations">
+    <Type Name="Location">
+      <Column Name="LocationID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="LocationCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="LocationName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LocationPlace" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Association Name="Location_Class" Member="Classes" OtherKey="LocationID" Type="Class" />
+      <Association Name="Location_PracticeRoom" Member="PracticeRooms" OtherKey="LocationID" Type="PracticeRoom" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Logs" Member="Logs">
+    <Type Name="Log">
+      <Column Name="LogID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AccountPermissionID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="LogDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="AccountPermission_Log" Member="AccountPermission" ThisKey="AccountPermissionID" Type="AccountPermission" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MenuGroups" Member="MenuGroups">
+    <Type Name="MenuGroup">
+      <Column Name="MenuGroupID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="GroupID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="MenuID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PermissionID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Group_MenuGroup" Member="Group" ThisKey="GroupID" Type="Group" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Menus_MenuGroup" Member="Menus" ThisKey="MenuID" Type="Menus" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Permission_MenuGroup" Member="Permission" ThisKey="PermissionID" Type="Permission" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Menus" Member="Menus">
+    <Type Name="Menus">
+      <Column Name="MenuID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="FormName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Menus_AccountPermission" Member="AccountPermissions" OtherKey="MenuID" Type="AccountPermission" />
+      <Association Name="Menus_MenuGroup" Member="MenuGroups" OtherKey="MenuID" Type="MenuGroup" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Notices" Member="Notices">
+    <Type Name="Notice">
+      <Column Name="NoticeID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ComputerCode" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Time" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Message" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="OldConfiguration" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="NewConfiguration" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="LastUser" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Permissions" Member="Permissions">
+    <Type Name="Permission">
+      <Column Name="PermissionID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PermissionName" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Association Name="Permission_AccountPermission" Member="AccountPermissions" OtherKey="PermissionID" Type="AccountPermission" />
+      <Association Name="Permission_MenuGroup" Member="MenuGroups" OtherKey="PermissionID" Type="MenuGroup" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PracticeRooms" Member="PracticeRooms">
+    <Type Name="PracticeRoom">
+      <Column Name="RoomID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="LocationID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RoomCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="Total" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RoomName" Type="System.String" DbType="NVarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="Note" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="PracticeRoom_Computer" Member="Computers" OtherKey="RoomID" Type="Computer" />
+      <Association Name="PracticeRoom_GroupSession" Member="GroupSessions" OtherKey="RoomID" Type="GroupSession" />
+      <Association Name="PracticeRoom_HistoryRoom" Member="HistoryRooms" OtherKey="RoomID" Type="HistoryRoom" />
+      <Association Name="Location_PracticeRoom" Member="Location" ThisKey="LocationID" Type="Location" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.RepairErrors" Member="RepairErrors">
+    <Type Name="RepairError">
+      <Column Name="RepairErrorID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TimeRepair" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="PeopleChange" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ComputerID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Error" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TimeError" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Repair" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Detail" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="Computer_RepairError" Member="Computer" ThisKey="ComputerID" Type="Computer" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ReplaceEquipments" Member="ReplaceEquipments">
+    <Type Name="ReplaceEquipment">
+      <Column Name="ReplacEquipmentID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ComputerEquipmentID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ReplaceDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Note" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="ComputerEquipment_ReplaceEquipment" Member="ComputerEquipment" ThisKey="ComputerEquipmentID" Type="ComputerEquipment" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.RoomMaps" Member="RoomMaps">
+    <Type Name="RoomMap">
+      <Column Name="RoomMapID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="RoomName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ComputerName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="FontSize" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Width" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Height" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Point" Type="System.String" DbType="NVarChar(300) NOT NULL" CanBeNull="false" />
+      <Column Name="Color" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SessionSpaces" Member="SessionSpaces">
+    <Type Name="SessionSpace">
+      <Column Name="SessionSpaceID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ComputerID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="StudentPracticeID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Session" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="Date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="Computer_SessionSpace" Member="Computer" ThisKey="ComputerID" Type="Computer" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="StudentPractice_SessionSpace" Member="StudentPractice" ThisKey="StudentPracticeID" Type="StudentPractice" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.StudentPractices" Member="StudentPractices">
+    <Type Name="StudentPractice">
+      <Column Name="StudentPracticeID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="StudentID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="GroupStudentID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IsTeamLeader" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="StudentPractice_CallRool" Member="CallRools" OtherKey="StudentPracticeID" Type="CallRool" />
+      <Association Name="StudentPractice_GroupMap" Member="GroupMaps" OtherKey="StudentPracticeID" Type="GroupMap" />
+      <Association Name="StudentPractice_SessionSpace" Member="SessionSpaces" OtherKey="StudentPracticeID" Type="SessionSpace" />
+      <Association Name="GroupStudent_StudentPractice" Member="GroupStudent" ThisKey="GroupStudentID" Type="GroupStudent" IsForeignKey="true" />
+      <Association Name="Student_StudentPractice" Member="Student" ThisKey="StudentID" Type="Student" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Students" Member="Students">
+    <Type Name="Student">
+      <Column Name="StudentID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ClassID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="StudentCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="FullName" Type="System.String" DbType="NVarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="BirthDay" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Pass" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Association Name="Student_StudentPractice" Member="StudentPractices" OtherKey="StudentID" Type="StudentPractice" />
+      <Association Name="Class_Student" Member="Class" ThisKey="ClassID" Type="Class" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Subjects" Member="Subjects">
+    <Type Name="Subject">
+      <Column Name="SubjectID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ChairID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectCode" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="SubjectName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Total" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Subject_GroupStudent" Member="GroupStudents" OtherKey="SubjectID" Type="GroupStudent" />
+      <Association Name="Subject_HistoryRoom" Member="HistoryRooms" OtherKey="SubjectID" Type="HistoryRoom" />
+      <Association Name="Chair_Subject" Member="Chair" ThisKey="ChairID" Type="Chair" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Teachers" Member="Teachers">
+    <Type Name="Teacher">
+      <Column Name="TeacherID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ChairID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TeacherCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TeacherName" Type="System.String" DbType="NVarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="BirthDay" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Association Name="Teacher_Account" Member="Accounts" OtherKey="TeacherID" Type="Account" />
+      <Association Name="Teacher_GroupStudent" Member="GroupStudents" OtherKey="TeacherID" Type="GroupStudent" />
+      <Association Name="Teacher_HistoryRoom" Member="HistoryRooms" OtherKey="TeacherID" Type="HistoryRoom" />
+      <Association Name="Chair_Teacher" Member="Chair" ThisKey="ChairID" Type="Chair" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TemporaryImformations" Member="TemporaryImformations">
+    <Type Name="TemporaryImformation">
+      <Column Name="ComputerID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ComputerCode" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="EquipmentCode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="EquipmentName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Firm" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Configuration" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,762 @@
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.exe.config
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.exe
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.pdb
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Tutorials.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ScreenCapture.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.DemoData.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Images.v21.2.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ScreenCapture.pdb
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.v21.2.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.AssemblyReference.cache
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.ResolveComReference.cache
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.devMain.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmAutoUpdateComputer.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmCallRows.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmChatRoom.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmClass.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmClient.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmComputer.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmComputerEquipments.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConfigApp.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConfigHaftYear.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmDepartment.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmDesignMap.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmEquipment.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmError.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmErrorofComputer.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmGroupStudent.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportClass.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportStudent.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportSubject.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmInfoStudent.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmJoinGroup.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmLogin.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmMessagebox.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmPermission.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmPracticeRoom.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmRemoting.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmRepairComputer.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmReplaceEquipment.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSend.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSesionPractice.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStatisticsEquipment.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStatisticsRepair.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStatisticsReplaceEquipment.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStatisticsStatusComputer.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStudent.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStudentPractic_.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSubject.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmViewConfiguration.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmWatchConfiguration.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmWatchScreen.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.Properties.Resources.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCListComputer.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCScreenCapture.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCTool.resources
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.GenerateResource.cache
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.exe.licenses
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.CoreCompileInputs.cache
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.CopyComplete
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.exe
+C:\KhoaLuan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.pdb
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.exe.config
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.exe
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.pdb
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Tutorials.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ScreenCapture.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.DemoData.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ScreenCapture.pdb
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.AssemblyReference.cache
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.ResolveComReference.cache
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.devMain.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmAutoUpdateComputer.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmCallRows.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmChatRoom.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmClass.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmClient.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmComputer.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConfigApp.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConfigHaftYear.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmDepartment.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmDesignMap.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmEquipment.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmError.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmErrorofComputer.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmGroupStudent.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportClass.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportStudent.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportSubject.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmInfoStudent.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmJoinGroup.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmLogin.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmMessagebox.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmPermission.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmPracticeRoom.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmRemoting.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmRepairComputer.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSend.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSesionPractice.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStudent.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStudentPractic_.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSubject.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmViewConfiguration.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmWatchConfiguration.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmWatchScreen.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.Properties.Resources.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCListComputer.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCScreenCapture.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCTool.resources
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.GenerateResource.cache
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.exe.licenses
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.CopyComplete
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.exe
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.pdb
+C:\Users\tinhm\OneDrive\Desktop\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConnectIp.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.exe.config
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.exe
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.pdb
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Tutorials.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ScreenCapture.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.DemoData.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ScreenCapture.pdb
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.AssemblyReference.cache
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.ResolveComReference.cache
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.devMain.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmAutoUpdateComputer.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmCallRows.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmChatRoom.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmClass.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmClient.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmComputer.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConfigApp.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConfigHaftYear.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConnectIp.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmDepartment.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmDesignMap.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmEquipment.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmError.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmErrorofComputer.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmGroupStudent.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportClass.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportStudent.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportSubject.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmInfoStudent.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmJoinGroup.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmLogin.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmMessagebox.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmPermission.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmPracticeRoom.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmRemoting.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmRepairComputer.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSend.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSesionPractice.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStudent.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStudentPractic_.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSubject.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmViewConfiguration.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmWatchConfiguration.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmWatchScreen.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.Properties.Resources.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCListComputer.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCScreenCapture.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCTool.resources
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.GenerateResource.cache
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.exe.licenses
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.CopyComplete
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.exe
+C:\Users\tinhm\OneDrive\Desktop\Khoa_luan\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.pdb
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.exe.config
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.exe
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.pdb
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ScreenCapture.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.DemoData.v21.2.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Images.v21.2.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ScreenCapture.pdb
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.AssemblyReference.cache
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.ResolveComReference.cache
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.devMain.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmAutoUpdateComputer.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmCallRows.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmChatRoom.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmClass.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmClient.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmComputer.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConfigApp.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConfigHaftYear.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConnectIp.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmDepartment.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmDesignMap.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmEquipment.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmError.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmErrorofComputer.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmGroupStudent.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportClass.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportStudent.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportSubject.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmInfoStudent.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmJoinGroup.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmLogin.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmMessagebox.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmPermission.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmPracticeRoom.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmRemoting.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmRepairComputer.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSend.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSesionPractice.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStudent.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStudentPractic_.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSubject.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmViewConfiguration.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmWatchConfiguration.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmWatchScreen.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.Properties.Resources.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCListComputer.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCScreenCapture.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCTool.resources
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.GenerateResource.cache
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.exe.licenses
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.CoreCompileInputs.cache
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.CopyComplete
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.exe
+D:\Code\C#\Quan_li_lop_hoc\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.pdb
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.exe.config
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.exe
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\PracticeTeachingManagementSystem.pdb
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ScreenCapture.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.DemoData.v21.2.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Images.v21.2.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ScreenCapture.pdb
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.AssemblyReference.cache
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.ResolveComReference.cache
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.devMain.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmAutoUpdateComputer.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmCallRows.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmChatRoom.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmClass.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmClient.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmComputer.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConfigApp.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConfigHaftYear.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmConnectIp.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmDepartment.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmDesignMap.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmEquipment.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmError.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmErrorofComputer.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmGroupStudent.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportClass.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportStudent.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmImportSubject.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmInfoStudent.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmJoinGroup.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmLogin.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmMessagebox.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmPermission.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmPracticeRoom.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmRemoting.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmRepairComputer.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSend.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSesionPractice.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStudent.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmStudentPractic_.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmSubject.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmViewConfiguration.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmWatchConfiguration.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.frmWatchScreen.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.Properties.Resources.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCListComputer.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCScreenCapture.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.UCTool.resources
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.GenerateResource.cache
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.exe.licenses
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.CoreCompileInputs.cache
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.csproj.CopyComplete
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.exe
+D:\Code\C#\Nhóm 10_ Xây dựng phần mềm quản lý lớp học\Code\GiangVien\PracticeTeachingManagementSystem\obj\Debug\PracticeTeachingManagementSystem.pdb
